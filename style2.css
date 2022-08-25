@@ -1,0 +1,101 @@
+body{
+    margin:0;
+    padding:0;
+    font-family: 'Roboto Condensed', sans-serif;
+  }
+  
+ /* 3 button #add,#driving,#license  */
+
+ .btnn {
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 70px;
+  }
+
+  .btnn-primary1{
+    font-size: 10px;
+    color: rgba(9, 21, 241, 0.75);
+    line-height: 15px;
+    border: 1px solid rgba(17, 9, 241, 0.959);
+    border-radius: 40px;
+    background-color: #FFF;
+    transition: all 0.3s ease 0s;
+  }
+
+  .btnn-primary1:hover {
+    color: #FFF;
+    background: rgba(8, 24, 241, 0.987);
+    border: 2px solid rgba(108, 89, 179, 0.75);
+  }
+
+  
+  .btnn-primary {
+    
+    font-size: 10px;
+    color: rgba(9, 21, 241, 0.75);
+    line-height: 15px;
+    border: 0.5px solid rgba(2, 1, 20, 0.959);
+    border-radius: 40px;
+    background: transparent;
+    transition: all 0.3s ease 0s;
+  }
+  
+  .btnn-primary:hover {
+    color: #FFF;
+    background: rgba(8, 24, 241, 0.987);
+    border: 2px solid rgba(108, 89, 179, 0.75);
+  }
+
+/* Boostrap Buttons Styling */
+
+
+
+
+.btnnn {
+    margin-left: 120px;
+    margin-top: 15px;
+  }
+  
+  .btnnn-primary {
+    
+    font-size: 13px;
+    color: rgb(255, 255, 255);
+    letter-spacing: 1px;
+    line-height: 15px;
+    border: 2px solid rgba(58, 133, 191, 0.75);
+    border-radius: 40px;
+    background: blue;
+    transition: all 0.3s ease 0s;
+  }
+  
+  .btnnn-primary:hover {
+    color: #FFF;
+    background: rgb(3, 247, 133);
+    border: 2px solid rgba(58, 133, 191, 0.75);
+  }
+  
+  
+  /* white butten cancle */
+  .btnnN {
+    margin-left: 120px;
+    margin-top: 15px;
+  }
+  
+  .btnnN-primary {
+    
+    font-size: 13px;
+    color: rgb(8, 12, 249);
+    letter-spacing: 1px;
+    line-height: 15px;
+    border: 2px solid rgba(58, 133, 191, 0.75);
+    border-radius: 40px;
+    background: rgb(251, 251, 251);
+    transition: all 0.3s ease 0s;
+  }
+  
+  .btnnN-primary:hover {
+    color: #FFF;
+    background: rgb(3, 247, 133);
+    border: 2px solid rgba(58, 133, 191, 0.75);
+  }
+  
